@@ -6,7 +6,7 @@ The Infineon CYW920721M2EVB-03 Evaluation Kit enables you to evaluate and develo
 
 ### Kit Features
 
-* CYW20721B2 dual-mode (Bluetooth&#174; LE/BR/EDR) Bluetooth&#174; 5.1-compliant wireless MCU packaged into a 4mm x 4mm SiP Module with external 8TR8211C Low Noise Amplifier and Power Amplifier (eLNA/ePA)
+* CYW20721B2 dual-mode (Bluetooth&#174; LE/BR/EDR) Bluetooth&#174; 5.4-compliant wireless MCU packaged into a 4mm x 4mm SiP Module with external 8TR8211C Low Noise Amplifier and Power Amplifier (eLNA/ePA)
 * On-board sensors - an ambient light sensor, thermistor, and footprint for an Infineon digital microphone
 * User switches and LEDs
 * USB connector for power, programming, and USB-UART bridge
